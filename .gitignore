@@ -1,0 +1,29 @@
+# Build folders
+bin/
+build/
+out/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.sln.docstates
+
+# Compiled files
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
